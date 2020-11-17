@@ -34,7 +34,7 @@ It includes the following columns:
 - Jupyter Notebook
 
 ---
-This project is inspired by the final challenge of the course [Python for Data Science: Intermediade Course](https://app.dataquest.io/course/python-for-data-science-intermediate), inserted in the [Data Scientist in Python](https://app.dataquest.io/path/data-scientist) path
+This project is inspired by the final challenge of the course [Python for Data Science: Intermediate Course](https://app.dataquest.io/course/python-for-data-science-intermediate), inserted in the [Data Scientist in Python](https://app.dataquest.io/path/data-scientist) path
 
 
 **Certificate of Completion:** https://app.dataquest.io/verify_cert/P9B7HM30KBZ3H4VU27GJ/
